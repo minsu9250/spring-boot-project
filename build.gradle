@@ -39,4 +39,5 @@ dependencies {
 	compile('org.apache.tomcat.embed:tomcat-embed-jasper')
 	compile('javax.servlet:jstl:1.2')
 	compile('org.webjars:jquery-ui:1.11.4')
+	compile('org.webjars:bootstrap:3.3.5')
 }
