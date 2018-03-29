@@ -1,4 +1,4 @@
-<h2 id="springboot-kakao-v10">Springboot-kakao v1.0</h2>
+<h2 id="spring-boot-project">spring-boot-project v1.0</h2>
 
 <h2 id="documents">Documents</h2>
 
