@@ -16,7 +16,7 @@
 
 <h2 id="project-build">Project build</h2>
 
-<p>github : <a href="https://github.com/minsu9250/springboot-kakao">https://github.com/minsu9250/springboot-kakao</a> <br>
+<p>github : <a href="https://github.com/minsu9250/spring-boot-project">https://github.com/minsu9250/spring-boot-project</a> <br>
 import : github URL clone -&gt; Gradle (STS) Project -&gt; BuildModel</p>
 
 <h2 id="gradle-setting">Gradle setting</h2>
