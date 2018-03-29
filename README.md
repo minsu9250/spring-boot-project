@@ -51,7 +51,9 @@ compile(‘org.webjars:bootstrap:3.3.5’)</p>
 
 <h2 id="table">Table</h2>
 
+<ul>
 <li>table name = "KAKAO"</li>
+</ul>
 
 <table>
 <thead>
